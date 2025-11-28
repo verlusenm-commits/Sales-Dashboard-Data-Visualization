@@ -1,51 +1,53 @@
-# Dashboard Simples – Estatísticas e Gráficos com HTML, CSS e JavaScript
-Um dashboard simples com cards de métricas e um gráfico gerado a partir de dados fictícios. Pode ser uma tela de “gestão de negócios”, perfeita para mostrar conhecimento visual e lógica.
+# Sales Dashboard – Visualização de Dados (Frontend)
 
-Este projeto é um dashboard simples, criado para demonstrar conceitos de front-end voltados à visualização de dados. Ele utiliza HTML, CSS e JavaScript, além de bibliotecas de gráficos para exibir informações de forma visual e intuitiva.
+Este projeto é um dashboard simples de vendas, desenvolvido com HTML, CSS e JavaScript, utilizando dados simulados.  
+O objetivo é demonstrar habilidades de visualização de dados, lógica de programação e manipulação de gráficos no front-end.
 
-Foi desenvolvido como parte do meu portfólio, com foco em vagas de Estágio em Desenvolvimento Fullstack, destacando habilidades em layout, lógica e manipulação de dados para visualização.
+Este projeto compõe meu portfólio para vagas de **Estágio em Desenvolvimento Fullstack**, destacando minha capacidade de transformar dados em informações visuais.
 
 ---
 
 ## Funcionalidades
 
-- Exibição de métricas principais
-- Gráficos dinâmicos (como barra, linha ou pizza)
-- Interface responsiva
-- Layout moderno inspirado em dashboards profissionais
-- Dados simulados para fins educacionais
-- Código limpo e bem organizado
+- Exibição de métricas de vendas simuladas  
+- Gráfico interativo usando **Chart.js**  
+- Layout responsivo  
+- Carregamento dinâmico de dados  
+- Organização em componentes simples  
 
 ---
 
-## Tecnologias
+## Tecnologias utilizadas
 
-- **HTML5** – Estrutura da página  
-- **CSS3** – Estilização e responsividade  
-- **JavaScript** – Manipulação de dados e eventos
-- **Chart.js** – Gráficos dinâmicos
+- **HTML5** – Estrutura do dashboard  
+- **CSS3** – Estilos e responsividade  
+- **JavaScript** – Lógica de carregamento e exibição de dados  
+- **Chart.js** – Biblioteca para gráficos  
 
 ---
 
 ## Estrutura do Projeto
 
-\
+```
 ├── index.html
 ├── style.css
 └── script.js
+```
 
 ---
 
 ## Objetivo do Projeto
 
-Este projeto foi criado para praticar:
-- Criação de dashboards e visualizações de dados
-- Organização de layouts modernos
-- Manipulação de dados simulados no front-end
-- Uso de bibliotecas de gráficos
-- Publicação de projetos com GitHub Pages  
+Este projeto reforça meu aprendizado em:
 
-Ele demonstra minha capacidade de criar interfaces ricas e organizadas, importantes para sistemas SaaS e ferramentas internas.
+- Visualização de dados no front-end  
+- Uso de bibliotecas JavaScript  
+- Estruturação de painéis e dashboards  
+- Manipulação de gráficos  
+- Responsividade  
+- Boas práticas de código  
+
+Além disso, demonstra a capacidade de apresentar métricas de forma clara e visual — algo muito valorizado em plataformas SaaS.
 
 ---
 
@@ -56,15 +58,24 @@ Ele demonstra minha capacidade de criar interfaces ricas e organizadas, importan
 
 ---
 
-## Próximas melhorias 
+## Melhorias planejadas (Roadmap)
 
-- [ ] Conectar com API real
-- [ ] Adicionar filtros e pesquisa
-- [ ] Criar componentes reutilizáveis
-- [ ] Inserir dark mode
-- [ ] Implementar animações no carregamento
+- Integrar dados reais por API  
+- Adicionar novos gráficos e filtros  
+- Criar tema escuro  
+- Exportar relatórios em PDF  
+- Criar versão mobile aprimorada  
 
 ---
+
+## Desenvolvido por  
+**Verluse Nascimento Martins**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+Focada em Desenvolvimento Web, SaaS e análise de dados  
+
+
+---
+
 
 ## Desenvolvido por
 
