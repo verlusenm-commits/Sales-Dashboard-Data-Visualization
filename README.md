@@ -74,11 +74,3 @@ Estudante de Análise e Desenvolvimento de Sistemas
 Focada em Desenvolvimento Web, SaaS e análise de dados  
 
 
----
-
-
-## Desenvolvido por
-
-**Verluse Martins**  
-Estudante de Análise e Desenvolvimento de Sistemas  
-Focada em Desenvolvimento Fullstack, SaaS e inovação tecnológica
